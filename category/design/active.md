@@ -5,3 +5,4 @@
 | [Senior Product Designer](https://app.ferretden.com/go/dcdf945a-d7c4-425f-9878-8e6a542a1812?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | Tangem | — | Design |
 | [Art Director](https://app.ferretden.com/go/92bd5b66-80e1-4028-89ab-245c60c8a467?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | ServiceNow | — | Design |
 | [Senior Designer](https://app.ferretden.com/go/363854eb-524b-497f-bc15-f4a5d1efefc5?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | AKQA | — | Design |
+| [Working Student Graphic Design & Content Adaptation](https://app.ferretden.com/go/d32579af-1ce1-4e32-9d58-98a6f1d62a0e?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | Siemens AG | Erlangen, Germany | Design |
