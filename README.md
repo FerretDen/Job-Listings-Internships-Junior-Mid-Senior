@@ -45,4 +45,4 @@ Every few hours, on FerretDen's automated sweep. Roles appear here after a short
 [Sign up on FerretDen](https://app.ferretden.com/signup?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=signup_cta) — FerretDen scores opportunities against your real skills and prepares a CV and cover letter tailored to each one.
 
 ---
-_Last updated: 2026-08-14 00:00 UTC_
+_Last updated: 2026-08-14 06:00 UTC_
