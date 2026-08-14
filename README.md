@@ -15,6 +15,10 @@ This repo is an auto-updated, curated slice of what FerretDen's shared discovery
 
 [Sign up on FerretDen](https://app.ferretden.com/signup?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=signup_cta)
 
+## Remote
+
+- [Remote roles](remote/)
+
 ## Browse by category
 
 - [Software Engineering](category/software-engineering/)
@@ -45,4 +49,4 @@ Every few hours, on FerretDen's automated sweep. Roles appear here after a short
 [Sign up on FerretDen](https://app.ferretden.com/signup?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=signup_cta) — FerretDen scores opportunities against your real skills and prepares a CV and cover letter tailored to each one.
 
 ---
-_Last updated: 2026-08-14 12:00 UTC_
+_Last updated: 2026-08-14 18:00 UTC_
