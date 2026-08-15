@@ -9,3 +9,4 @@
 | [Art Director](https://app.ferretden.com/go/92bd5b66-80e1-4028-89ab-245c60c8a467?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | ServiceNow | — | Design |
 | [Senior Product Designer](https://app.ferretden.com/go/dcdf945a-d7c4-425f-9878-8e6a542a1812?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | Tangem | — | Design |
 | [Senior Interior Designer](https://app.ferretden.com/go/fd465cfe-9c74-46f9-b041-e4352b192ba5?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | Shea | Minneapolis | Design |
+| [Senior Product Designer](https://app.ferretden.com/go/63774cdf-f36b-4f5b-94ef-a20ee7138b3c?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | The Athletic | — | Design |
