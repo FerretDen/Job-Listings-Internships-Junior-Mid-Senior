@@ -656,3 +656,4 @@
 | [Senior Software Engineer](https://app.ferretden.com/go/e9b72177-6374-4357-a151-5c3dd535815e?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | Customer.io | Americas Remote | Software Engineering |
 | [Senior Software Engineer](https://app.ferretden.com/go/55af6e7f-a8ca-42d4-9d6a-7c7403f0f62f?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | Redfin | — | Software Engineering |
 | [Mobile Engineer](https://app.ferretden.com/go/02dd9e67-89a1-4e3d-9e28-f103945d1526?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | Fundraise Up | — | Software Engineering |
+| [Senior Product Designer](https://app.ferretden.com/go/63774cdf-f36b-4f5b-94ef-a20ee7138b3c?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=opportunity_link) | The Athletic | — | Design |
