@@ -15,6 +15,11 @@ This repo is an auto-updated, curated slice of what FerretDen's shared discovery
 
 [Sign up on FerretDen](https://app.ferretden.com/signup?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=signup_cta)
 
+
+## Want a source tracked?
+
+See a job board, Telegram channel, or a specific company's careers page that isn't here — with your own filters, like remote-only or a seniority level? [Open a pull request](https://github.com/FerretDen/Job-Listings-Internships-Junior-Mid-Senior/pulls) adding it to `requests.md` at the repo root (create the file if it doesn't exist yet) with the source URL and what you want filtered. Requests are reviewed manually and picked up on a future sweep.
+
 ## Remote
 
 - [Remote roles](remote/)
@@ -49,4 +54,4 @@ Every few hours, on FerretDen's automated sweep. Roles appear here after a short
 [Sign up on FerretDen](https://app.ferretden.com/signup?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=signup_cta) — FerretDen scores opportunities against your real skills and prepares a CV and cover letter tailored to each one.
 
 ---
-_Last updated: 2026-08-15 00:00 UTC_
+_Last updated: 2026-08-15 04:53 UTC_
