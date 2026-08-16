@@ -1,7 +1,5 @@
 ![FerretDen](https://ferretden.com/logo-lockup-dark.png)
 
-## NOTICE: Job funneling to this repo is currently paused until someone actually needs it. If you do, just star the repo or make a pull request :)
-
 # FerretDen Firehose
 
 ## The moat isn't a fixed catalog. It's that there isn't one
@@ -56,4 +54,4 @@ Every few hours, on FerretDen's automated sweep. Roles appear here after a short
 [Sign up on FerretDen](https://app.ferretden.com/signup?utm_source=github&utm_medium=firehose&utm_campaign=job_listings&utm_content=signup_cta) — FerretDen scores opportunities against your real skills and prepares a CV and cover letter tailored to each one.
 
 ---
-_Last updated: 2026-08-16 12:00 UTC_
+_Last updated: 2026-08-16 18:00 UTC_
