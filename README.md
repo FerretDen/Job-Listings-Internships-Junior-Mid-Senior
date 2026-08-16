@@ -1,6 +1,6 @@
 ![FerretDen](https://ferretden.com/logo-lockup-dark.png)
 
-NOTICE: Job funneling to this repo is currently paused until someone actually needs it. If you do, just star the repo or make a pull request :)
+## NOTICE: Job funneling to this repo is currently paused until someone actually needs it. If you do, just star the repo or make a pull request :)
 
 # FerretDen Firehose
 
